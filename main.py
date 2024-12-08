@@ -40,7 +40,7 @@ if __name__ == "__main__":
         pagination = get_pagination(soup)
         if pagination:
             for page in range(int(pagination)):
-                url = f"https://freelance.habr.com/tasks?q=python"
+                url = f"https://freelance.habr.com/tasks?page={page}&q=python"
                 soup = get_soup(url=url)
                 get_tasks(soup)
         else:

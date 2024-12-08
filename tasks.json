@@ -1,127 +1,37 @@
 [
     {
-        "title": "Разработка платформы",
-        "url": "https://freelance.habr.com/tasks/612559",
-        "price": "договорная"
+        "title": "Моделирование работы микропроцессора RISC-V для имплементации RTOS ",
+        "url": "https://freelance.habr.com/tasks/612765",
+        "price": "5 000 руб. за проект"
     },
     {
-        "title": "Доработка сайта производителя дверей на Python Django",
-        "url": "https://freelance.habr.com/tasks/612539",
-        "price": "40 000 руб. за проект"
+        "title": "Помощь/консультация по настройке хостинга для Телеграмм-Бота на Python",
+        "url": "https://freelance.habr.com/tasks/612729",
+        "price": "1 000 руб. за час"
     },
     {
-        "title": "Birdeye.so boosting views",
-        "url": "https://freelance.habr.com/tasks/612513",
-        "price": "40 000 руб. за проект"
+        "title": "Выделение эмоционального фона из аудио диалога - не текст(Python)",
+        "url": "https://freelance.habr.com/tasks/612727",
+        "price": "5 000 руб. за проект"
     },
     {
-        "title": "Разработка на python fastAPI, парсинг",
-        "url": "https://freelance.habr.com/tasks/612395",
-        "price": "1 500 руб. за час"
-    },
-    {
-        "title": "Скрипт для отслеживания unconfirmed-транзакций Bitcoin",
-        "url": "https://freelance.habr.com/tasks/612373",
-        "price": "договорная"
-    },
-    {
-        "title": "Решение задачи по программированию  Arduino на Python или C++ ",
-        "url": "https://freelance.habr.com/tasks/612371",
-        "price": "договорная"
-    },
-    {
-        "title": "Доработка простой программы на питоне",
-        "url": "https://freelance.habr.com/tasks/612343",
-        "price": "2 000 руб. за проект"
-    },
-    {
-        "title": "Торговый робот для Bybit ",
-        "url": "https://freelance.habr.com/tasks/612331",
-        "price": "20 000 руб. за проект"
-    },
-    {
-        "title": "Парсинг зарубежных новостей",
-        "url": "https://freelance.habr.com/tasks/612323",
-        "price": "договорная"
-    },
-    {
-        "title": "Пофиксить баги в боте",
-        "url": "https://freelance.habr.com/tasks/612245",
-        "price": "1 000 руб. за проект"
-    },
-    {
-        "title": "Разработка tg бота (tg mini app) и бэкэнда к нему на Python Django",
-        "url": "https://freelance.habr.com/tasks/612159",
-        "price": "договорная"
-    },
-    {
-        "title": "Доработать код с диаграммой Вороного, импортировав визуализацию в gmsh",
-        "url": "https://freelance.habr.com/tasks/612131",
-        "price": "500 руб. за проект"
-    },
-    {
-        "title": "Python скрипт для rutube",
-        "url": "https://freelance.habr.com/tasks/612097",
-        "price": "договорная"
-    },
-    {
-        "title": "Доработать сайт Python + NextJS",
-        "url": "https://freelance.habr.com/tasks/612071",
-        "price": "договорная"
-    },
-    {
-        "title": "Доработать сервсис Django + Angular",
-        "url": "https://freelance.habr.com/tasks/612013",
-        "price": "договорная"
-    },
-    {
-        "title": "Написать скрипт для экспорта данных из Ansys2023R1",
-        "url": "https://freelance.habr.com/tasks/611989",
-        "price": "договорная"
-    },
-    {
-        "title": "Предиктивная аналитика на bigdata",
-        "url": "https://freelance.habr.com/tasks/611987",
-        "price": "10 000 руб. за проект"
-    },
-    {
-        "title": "Доделать один метод в телеграм боте (Python) ",
-        "url": "https://freelance.habr.com/tasks/611981",
-        "price": "2 000 руб. за проект"
-    },
-    {
-        "title": "Специалист по нейтрализации недобросовестных тг-каналов",
-        "url": "https://freelance.habr.com/tasks/611943",
-        "price": "4 000 руб. за проект"
-    },
-    {
-        "title": "Разработать торгового бота",
-        "url": "https://freelance.habr.com/tasks/611879",
-        "price": "договорная"
-    },
-    {
-        "title": "Разработать микросервис на Python для интеграции СБИС и Стартера",
-        "url": "https://freelance.habr.com/tasks/611855",
-        "price": "80 000 руб. за проект"
-    },
-    {
-        "title": "Подправить телеграмм бота",
-        "url": "https://freelance.habr.com/tasks/611687",
-        "price": "договорная"
-    },
-    {
-        "title": "Доработка нейросети - бот",
-        "url": "https://freelance.habr.com/tasks/611647",
-        "price": "15 000 руб. за проект"
-    },
-    {
-        "title": "Разработать анализатор html и pdf на принципах машинного обучения",
-        "url": "https://freelance.habr.com/tasks/611553",
+        "title": "Доработка/помощь в разработке трейдинг бота на solana",
+        "url": "https://freelance.habr.com/tasks/612719",
         "price": "150 000 руб. за проект"
     },
     {
-        "title": "Парсинг инстаграм аккаунтов по ключевому слову",
-        "url": "https://freelance.habr.com/tasks/611537",
+        "title": "Автоматизация windows приложения WhatsApp  (Selenium + Python или PHP)",
+        "url": "https://freelance.habr.com/tasks/612715",
+        "price": "30 000 руб. за проект"
+    },
+    {
+        "title": "Разработка парсера для сети Solana",
+        "url": "https://freelance.habr.com/tasks/612637",
+        "price": "договорная"
+    },
+    {
+        "title": "Развернуть веб-платформу сообщества в Казахстане на Django",
+        "url": "https://freelance.habr.com/tasks/612607",
         "price": "10 000 руб. за проект"
     },
     {
@@ -180,16 +90,6 @@
         "price": "договорная"
     },
     {
-        "title": "Доработать код с диаграммой Вороного, импортировав визуализацию в gmsh",
-        "url": "https://freelance.habr.com/tasks/612131",
-        "price": "500 руб. за проект"
-    },
-    {
-        "title": "Python скрипт для rutube",
-        "url": "https://freelance.habr.com/tasks/612097",
-        "price": "договорная"
-    },
-    {
         "title": "Доработать сайт Python + NextJS",
         "url": "https://freelance.habr.com/tasks/612071",
         "price": "договорная"
@@ -225,28 +125,38 @@
         "price": "договорная"
     },
     {
-        "title": "Разработать микросервис на Python для интеграции СБИС и Стартера",
-        "url": "https://freelance.habr.com/tasks/611855",
-        "price": "80 000 руб. за проект"
+        "title": "Моделирование работы микропроцессора RISC-V для имплементации RTOS ",
+        "url": "https://freelance.habr.com/tasks/612765",
+        "price": "5 000 руб. за проект"
     },
     {
-        "title": "Подправить телеграмм бота",
-        "url": "https://freelance.habr.com/tasks/611687",
-        "price": "договорная"
+        "title": "Помощь/консультация по настройке хостинга для Телеграмм-Бота на Python",
+        "url": "https://freelance.habr.com/tasks/612729",
+        "price": "1 000 руб. за час"
     },
     {
-        "title": "Доработка нейросети - бот",
-        "url": "https://freelance.habr.com/tasks/611647",
-        "price": "15 000 руб. за проект"
+        "title": "Выделение эмоционального фона из аудио диалога - не текст(Python)",
+        "url": "https://freelance.habr.com/tasks/612727",
+        "price": "5 000 руб. за проект"
     },
     {
-        "title": "Разработать анализатор html и pdf на принципах машинного обучения",
-        "url": "https://freelance.habr.com/tasks/611553",
+        "title": "Доработка/помощь в разработке трейдинг бота на solana",
+        "url": "https://freelance.habr.com/tasks/612719",
         "price": "150 000 руб. за проект"
     },
     {
-        "title": "Парсинг инстаграм аккаунтов по ключевому слову",
-        "url": "https://freelance.habr.com/tasks/611537",
+        "title": "Автоматизация windows приложения WhatsApp  (Selenium + Python или PHP)",
+        "url": "https://freelance.habr.com/tasks/612715",
+        "price": "30 000 руб. за проект"
+    },
+    {
+        "title": "Разработка парсера для сети Solana",
+        "url": "https://freelance.habr.com/tasks/612637",
+        "price": "договорная"
+    },
+    {
+        "title": "Развернуть веб-платформу сообщества в Казахстане на Django",
+        "url": "https://freelance.habr.com/tasks/612607",
         "price": "10 000 руб. за проект"
     },
     {
@@ -305,16 +215,6 @@
         "price": "договорная"
     },
     {
-        "title": "Доработать код с диаграммой Вороного, импортировав визуализацию в gmsh",
-        "url": "https://freelance.habr.com/tasks/612131",
-        "price": "500 руб. за проект"
-    },
-    {
-        "title": "Python скрипт для rutube",
-        "url": "https://freelance.habr.com/tasks/612097",
-        "price": "договорная"
-    },
-    {
         "title": "Доработать сайт Python + NextJS",
         "url": "https://freelance.habr.com/tasks/612071",
         "price": "договорная"
@@ -360,11 +260,6 @@
         "price": "договорная"
     },
     {
-        "title": "Доработка нейросети - бот",
-        "url": "https://freelance.habr.com/tasks/611647",
-        "price": "15 000 руб. за проект"
-    },
-    {
         "title": "Разработать анализатор html и pdf на принципах машинного обучения",
         "url": "https://freelance.habr.com/tasks/611553",
         "price": "150 000 руб. за проект"
@@ -375,253 +270,358 @@
         "price": "10 000 руб. за проект"
     },
     {
-        "title": "Разработка платформы",
-        "url": "https://freelance.habr.com/tasks/612559",
+        "title": "Реализовать сайт по поиску работы",
+        "url": "https://freelance.habr.com/tasks/611511",
         "price": "договорная"
     },
     {
-        "title": "Доработка сайта производителя дверей на Python Django",
-        "url": "https://freelance.habr.com/tasks/612539",
-        "price": "40 000 руб. за проект"
+        "title": "Сделать программу на Python для торговли на криптобиржах роботами",
+        "url": "https://freelance.habr.com/tasks/611507",
+        "price": "10 000 руб. за проект"
     },
     {
-        "title": "Birdeye.so boosting views",
-        "url": "https://freelance.habr.com/tasks/612513",
-        "price": "40 000 руб. за проект"
-    },
-    {
-        "title": "Разработка на python fastAPI, парсинг",
-        "url": "https://freelance.habr.com/tasks/612395",
-        "price": "1 500 руб. за час"
-    },
-    {
-        "title": "Скрипт для отслеживания unconfirmed-транзакций Bitcoin",
-        "url": "https://freelance.habr.com/tasks/612373",
-        "price": "договорная"
-    },
-    {
-        "title": "Решение задачи по программированию  Arduino на Python или C++ ",
-        "url": "https://freelance.habr.com/tasks/612371",
-        "price": "договорная"
-    },
-    {
-        "title": "Доработка простой программы на питоне",
-        "url": "https://freelance.habr.com/tasks/612343",
-        "price": "2 000 руб. за проект"
-    },
-    {
-        "title": "Торговый робот для Bybit ",
-        "url": "https://freelance.habr.com/tasks/612331",
-        "price": "20 000 руб. за проект"
-    },
-    {
-        "title": "Парсинг зарубежных новостей",
-        "url": "https://freelance.habr.com/tasks/612323",
-        "price": "договорная"
-    },
-    {
-        "title": "Пофиксить баги в боте",
-        "url": "https://freelance.habr.com/tasks/612245",
+        "title": "Доработка python - одна функция",
+        "url": "https://freelance.habr.com/tasks/611457",
         "price": "1 000 руб. за проект"
     },
     {
-        "title": "Разработка tg бота (tg mini app) и бэкэнда к нему на Python Django",
-        "url": "https://freelance.habr.com/tasks/612159",
+        "title": "Правильно обработать транзакцию Uniswap v3",
+        "url": "https://freelance.habr.com/tasks/611419",
         "price": "договорная"
     },
     {
-        "title": "Доработать код с диаграммой Вороного, импортировав визуализацию в gmsh",
-        "url": "https://freelance.habr.com/tasks/612131",
+        "title": "Интеграция с RealtyCalendar на Python/Django + Ninja",
+        "url": "https://freelance.habr.com/tasks/611383",
+        "price": "договорная"
+    },
+    {
+        "title": "Модуль OCR на python 3.11 + ",
+        "url": "https://freelance.habr.com/tasks/611369",
+        "price": "100 000 руб. за проект"
+    },
+    {
+        "title": "Парсеры на python",
+        "url": "https://freelance.habr.com/tasks/611325",
+        "price": "договорная"
+    },
+    {
+        "title": "Разработка на Phyton",
+        "url": "https://freelance.habr.com/tasks/611319",
+        "price": "договорная"
+    },
+    {
+        "title": "Разработка проекта C++",
+        "url": "https://freelance.habr.com/tasks/611243",
+        "price": "300 000 руб. за проект"
+    },
+    {
+        "title": "Чат бот телеграмм-python",
+        "url": "https://freelance.habr.com/tasks/611195",
+        "price": "2 000 руб. за проект"
+    },
+    {
+        "title": "Проверить программу Python",
+        "url": "https://freelance.habr.com/tasks/611193",
         "price": "500 руб. за проект"
     },
     {
-        "title": "Python скрипт для rutube",
-        "url": "https://freelance.habr.com/tasks/612097",
+        "title": "Разработка веб-приложения на Django ",
+        "url": "https://freelance.habr.com/tasks/611189",
         "price": "договорная"
     },
     {
-        "title": "Доработать сайт Python + NextJS",
-        "url": "https://freelance.habr.com/tasks/612071",
+        "title": "Настройка телеграмм бота на сервере",
+        "url": "https://freelance.habr.com/tasks/611179",
         "price": "договорная"
     },
     {
-        "title": "Доработать сервсис Django + Angular",
-        "url": "https://freelance.habr.com/tasks/612013",
-        "price": "договорная"
-    },
-    {
-        "title": "Написать скрипт для экспорта данных из Ansys2023R1",
-        "url": "https://freelance.habr.com/tasks/611989",
-        "price": "договорная"
-    },
-    {
-        "title": "Предиктивная аналитика на bigdata",
-        "url": "https://freelance.habr.com/tasks/611987",
-        "price": "10 000 руб. за проект"
-    },
-    {
-        "title": "Доделать один метод в телеграм боте (Python) ",
-        "url": "https://freelance.habr.com/tasks/611981",
+        "title": "Настройка Pycharm",
+        "url": "https://freelance.habr.com/tasks/611139",
         "price": "2 000 руб. за проект"
     },
     {
-        "title": "Специалист по нейтрализации недобросовестных тг-каналов",
-        "url": "https://freelance.habr.com/tasks/611943",
-        "price": "4 000 руб. за проект"
-    },
-    {
-        "title": "Разработать торгового бота",
-        "url": "https://freelance.habr.com/tasks/611879",
+        "title": "Программа для поиска слотов на сайте",
+        "url": "https://freelance.habr.com/tasks/611135",
         "price": "договорная"
     },
     {
-        "title": "Разработать микросервис на Python для интеграции СБИС и Стартера",
-        "url": "https://freelance.habr.com/tasks/611855",
-        "price": "80 000 руб. за проект"
+        "title": "Разработать python скрипт для мониторинга позиций товара с разных на W",
+        "url": "https://freelance.habr.com/tasks/611115",
+        "price": "10 000 руб. за проект"
     },
     {
-        "title": "Подправить телеграмм бота",
-        "url": "https://freelance.habr.com/tasks/611687",
+        "title": "Скрипт Python для получения списков из Word (в Google Colab)",
+        "url": "https://freelance.habr.com/tasks/610889",
         "price": "договорная"
     },
     {
-        "title": "Доработка нейросети - бот",
-        "url": "https://freelance.habr.com/tasks/611647",
+        "title": "Нужно написать парсеры для получения биржевых данных",
+        "url": "https://freelance.habr.com/tasks/610773",
+        "price": "договорная"
+    },
+    {
+        "title": "Разработать бекенд на FastAPI",
+        "url": "https://freelance.habr.com/tasks/610719",
+        "price": "договорная"
+    },
+    {
+        "title": "APK декомпиляция внутренних API приложения",
+        "url": "https://freelance.habr.com/tasks/610689",
         "price": "15 000 руб. за проект"
     },
     {
-        "title": "Разработать анализатор html и pdf на принципах машинного обучения",
-        "url": "https://freelance.habr.com/tasks/611553",
-        "price": "150 000 руб. за проект"
-    },
-    {
-        "title": "Парсинг инстаграм аккаунтов по ключевому слову",
-        "url": "https://freelance.habr.com/tasks/611537",
+        "title": "Разработать Telegram-бота для анализа звонков продаж",
+        "url": "https://freelance.habr.com/tasks/610629",
         "price": "10 000 руб. за проект"
     },
     {
-        "title": "Разработка платформы",
-        "url": "https://freelance.habr.com/tasks/612559",
-        "price": "договорная"
-    },
-    {
-        "title": "Доработка сайта производителя дверей на Python Django",
-        "url": "https://freelance.habr.com/tasks/612539",
-        "price": "40 000 руб. за проект"
-    },
-    {
-        "title": "Birdeye.so boosting views",
-        "url": "https://freelance.habr.com/tasks/612513",
-        "price": "40 000 руб. за проект"
-    },
-    {
-        "title": "Разработка на python fastAPI, парсинг",
-        "url": "https://freelance.habr.com/tasks/612395",
-        "price": "1 500 руб. за час"
-    },
-    {
-        "title": "Скрипт для отслеживания unconfirmed-транзакций Bitcoin",
-        "url": "https://freelance.habr.com/tasks/612373",
-        "price": "договорная"
-    },
-    {
-        "title": "Решение задачи по программированию  Arduino на Python или C++ ",
-        "url": "https://freelance.habr.com/tasks/612371",
-        "price": "договорная"
-    },
-    {
-        "title": "Доработка простой программы на питоне",
-        "url": "https://freelance.habr.com/tasks/612343",
-        "price": "2 000 руб. за проект"
-    },
-    {
-        "title": "Торговый робот для Bybit ",
-        "url": "https://freelance.habr.com/tasks/612331",
-        "price": "20 000 руб. за проект"
-    },
-    {
-        "title": "Парсинг зарубежных новостей",
-        "url": "https://freelance.habr.com/tasks/612323",
-        "price": "договорная"
-    },
-    {
-        "title": "Пофиксить баги в боте",
-        "url": "https://freelance.habr.com/tasks/612245",
+        "title": "Деплой приложения",
+        "url": "https://freelance.habr.com/tasks/610589",
         "price": "1 000 руб. за проект"
     },
     {
-        "title": "Разработка tg бота (tg mini app) и бэкэнда к нему на Python Django",
-        "url": "https://freelance.habr.com/tasks/612159",
+        "title": "Добавить интеграцию оплаты Telegram Payments 2.0 в Mini App (React)",
+        "url": "https://freelance.habr.com/tasks/610537",
+        "price": "3 000 руб. за проект"
+    },
+    {
+        "title": "Описать и поддерживать ETL процесс на Luigi",
+        "url": "https://freelance.habr.com/tasks/610509",
         "price": "договорная"
     },
     {
-        "title": "Доработать код с диаграммой Вороного, импортировав визуализацию в gmsh",
-        "url": "https://freelance.habr.com/tasks/612131",
-        "price": "500 руб. за проект"
+        "title": "Разработать Back-end часть веб-приложения",
+        "url": "https://freelance.habr.com/tasks/610473",
+        "price": "100 000 руб. за проект"
     },
     {
-        "title": "Python скрипт для rutube",
-        "url": "https://freelance.habr.com/tasks/612097",
-        "price": "договорная"
+        "title": "Написать код на языке Python ",
+        "url": "https://freelance.habr.com/tasks/610467",
+        "price": "60 000 руб. за проект"
     },
     {
-        "title": "Доработать сайт Python + NextJS",
-        "url": "https://freelance.habr.com/tasks/612071",
-        "price": "договорная"
+        "title": "Разобрать текущий ETL-процесс",
+        "url": "https://freelance.habr.com/tasks/610447",
+        "price": "3 000 руб. за проект"
     },
     {
-        "title": "Доработать сервсис Django + Angular",
-        "url": "https://freelance.habr.com/tasks/612013",
-        "price": "договорная"
+        "title": "Разработать скрипт-парсер для новостного сайта",
+        "url": "https://freelance.habr.com/tasks/610423",
+        "price": "30 000 руб. за проект"
     },
     {
-        "title": "Написать скрипт для экспорта данных из Ansys2023R1",
-        "url": "https://freelance.habr.com/tasks/611989",
-        "price": "договорная"
-    },
-    {
-        "title": "Предиктивная аналитика на bigdata",
-        "url": "https://freelance.habr.com/tasks/611987",
+        "title": "Разработка базы данных на SQL",
+        "url": "https://freelance.habr.com/tasks/610381",
         "price": "10 000 руб. за проект"
     },
     {
-        "title": "Доделать один метод в телеграм боте (Python) ",
-        "url": "https://freelance.habr.com/tasks/611981",
-        "price": "2 000 руб. за проект"
+        "title": "Сделать на Python страницу с результатами теста",
+        "url": "https://freelance.habr.com/tasks/610361",
+        "price": "10 000 руб. за проект"
     },
     {
-        "title": "Специалист по нейтрализации недобросовестных тг-каналов",
-        "url": "https://freelance.habr.com/tasks/611943",
-        "price": "4 000 руб. за проект"
-    },
-    {
-        "title": "Разработать торгового бота",
-        "url": "https://freelance.habr.com/tasks/611879",
+        "title": "Доработать сайт на Python + React + Vite (full stack разработчик)",
+        "url": "https://freelance.habr.com/tasks/610323",
         "price": "договорная"
     },
     {
-        "title": "Разработать микросервис на Python для интеграции СБИС и Стартера",
-        "url": "https://freelance.habr.com/tasks/611855",
-        "price": "80 000 руб. за проект"
+        "title": "Тестирование модуля ElasticSearch через ftp",
+        "url": "https://freelance.habr.com/tasks/610299",
+        "price": "1 500 руб. за проект"
     },
     {
-        "title": "Подправить телеграмм бота",
-        "url": "https://freelance.habr.com/tasks/611687",
+        "title": "Проверить код,завершить разработку,публикация от им.Заказчика AppStore",
+        "url": "https://freelance.habr.com/tasks/610285",
         "price": "договорная"
     },
     {
-        "title": "Доработка нейросети - бот",
-        "url": "https://freelance.habr.com/tasks/611647",
-        "price": "15 000 руб. за проект"
+        "title": "Разработка алгоритма на python (Data engineering)",
+        "url": "https://freelance.habr.com/tasks/610283",
+        "price": "300 000 руб. за проект"
     },
     {
-        "title": "Разработать анализатор html и pdf на принципах машинного обучения",
-        "url": "https://freelance.habr.com/tasks/611553",
+        "title": "Внести ряд доработок в существующий Vue.js сайт",
+        "url": "https://freelance.habr.com/tasks/610225",
+        "price": "500 руб. за час"
+    },
+    {
+        "title": "Разработать сайт порфолио",
+        "url": "https://freelance.habr.com/tasks/610033",
+        "price": "5 000 руб. за проект"
+    },
+    {
+        "title": "Переписать Telegram бота на последнюю версию python",
+        "url": "https://freelance.habr.com/tasks/609969",
+        "price": "3 000 руб. за проект"
+    },
+    {
+        "title": " Срочная доработка скрипта для tg mini apps на python",
+        "url": "https://freelance.habr.com/tasks/609967",
+        "price": "1 000 руб. за проект"
+    },
+    {
+        "title": "Доработка проекта на python backend fastapi",
+        "url": "https://freelance.habr.com/tasks/609961",
+        "price": "договорная"
+    },
+    {
+        "title": "Консультация - как оптимизировать запросы к MongoDB",
+        "url": "https://freelance.habr.com/tasks/609943",
+        "price": "1 500 руб. за час"
+    },
+    {
+        "title": "Разработать модуль для программы SAS.Планета",
+        "url": "https://freelance.habr.com/tasks/609879",
+        "price": "50 000 руб. за проект"
+    },
+    {
+        "title": "Доработка скрипта на Python",
+        "url": "https://freelance.habr.com/tasks/609845",
+        "price": "10 000 руб. за проект"
+    },
+    {
+        "title": "Технический менеджер проектов",
+        "url": "https://freelance.habr.com/tasks/609819",
         "price": "150 000 руб. за проект"
     },
     {
-        "title": "Парсинг инстаграм аккаунтов по ключевому слову",
-        "url": "https://freelance.habr.com/tasks/611537",
+        "title": "Интегрировать ИИ в телеграм бот",
+        "url": "https://freelance.habr.com/tasks/609789",
+        "price": "50 000 руб. за проект"
+    },
+    {
+        "title": "Разработка Telegram-бота для розыгрышей и создание аукционной системы ",
+        "url": "https://freelance.habr.com/tasks/609771",
+        "price": "договорная"
+    },
+    {
+        "title": "Антидетект браузер + python",
+        "url": "https://freelance.habr.com/tasks/609753",
+        "price": "договорная"
+    },
+    {
+        "title": "Скрипт распознавания аудио файла (wav) через Яндекс Yandex SpeechKit",
+        "url": "https://freelance.habr.com/tasks/609711",
+        "price": "2 000 руб. за проект"
+    },
+    {
+        "title": "Разработать телеграм бота \"арбитраж сканер\"",
+        "url": "https://freelance.habr.com/tasks/609669",
+        "price": "20 000 руб. за проект"
+    },
+    {
+        "title": "Произвести парсинг информации с сайта с дальнейшей визуализацией",
+        "url": "https://freelance.habr.com/tasks/609565",
+        "price": "12 000 руб. за проект"
+    },
+    {
+        "title": "Разработать проект на Python",
+        "url": "https://freelance.habr.com/tasks/609553",
+        "price": "договорная"
+    },
+    {
+        "title": "Написать телеграмм бота с биллингом и асинхронной обработкой ",
+        "url": "https://freelance.habr.com/tasks/609497",
+        "price": "договорная"
+    },
+    {
+        "title": "Написать программный код для расчёта физических параметров, на Python",
+        "url": "https://freelance.habr.com/tasks/609487",
+        "price": "3 000 руб. за проект"
+    },
+    {
+        "title": "Разработать искусственный интеллект на Python для Telegram бота",
+        "url": "https://freelance.habr.com/tasks/609469",
+        "price": "800 руб. за проект"
+    },
+    {
+        "title": "Доработать скрипт преобразования между системами координат ",
+        "url": "https://freelance.habr.com/tasks/609405",
+        "price": "500 руб. за проект"
+    },
+    {
+        "title": "Скрипт оповещения о постах в твиттер",
+        "url": "https://freelance.habr.com/tasks/609393",
+        "price": "договорная"
+    },
+    {
+        "title": "Разработать сайт компании",
+        "url": "https://freelance.habr.com/tasks/609153",
+        "price": "50 000 руб. за проект"
+    },
+    {
+        "title": "Добавить функий в TG бот (python)",
+        "url": "https://freelance.habr.com/tasks/609145",
+        "price": "договорная"
+    },
+    {
+        "title": "Инициализация модели в Python и перенос её из Google Colab в бота",
+        "url": "https://freelance.habr.com/tasks/609107",
+        "price": "договорная"
+    },
+    {
+        "title": "Доработать скрипт на python",
+        "url": "https://freelance.habr.com/tasks/609101",
+        "price": "1 500 руб. за проект"
+    },
+    {
+        "title": "Решить 400 ответ при передаче в теле запроса пустой data",
+        "url": "https://freelance.habr.com/tasks/609073",
+        "price": "4 000 руб. за час"
+    },
+    {
+        "title": "Telegram API",
+        "url": "https://freelance.habr.com/tasks/609059",
+        "price": "договорная"
+    },
+    {
+        "title": "Анализ данных (исследование рынка труда и образовательных программ)",
+        "url": "https://freelance.habr.com/tasks/609031",
+        "price": "120 000 руб. за проект"
+    },
+    {
+        "title": "Доработка+рефакторинг веб-проекта на django (тематика: Data analysis)",
+        "url": "https://freelance.habr.com/tasks/608991",
+        "price": "договорная"
+    },
+    {
+        "title": "Создание бота для мониторинга цены токена в сети Solana",
+        "url": "https://freelance.habr.com/tasks/608921",
+        "price": "5 000 руб. за проект"
+    },
+    {
+        "title": "Дообучение нейросети в Google Colab",
+        "url": "https://freelance.habr.com/tasks/608919",
+        "price": "договорная"
+    },
+    {
+        "title": "Обернуть сервис по генерации видео в API",
+        "url": "https://freelance.habr.com/tasks/608899",
+        "price": "50 000 руб. за проект"
+    },
+    {
+        "title": " Настроить потоковую передачу данных ",
+        "url": "https://freelance.habr.com/tasks/608865",
+        "price": "договорная"
+    },
+    {
+        "title": "Настройка 3X-UI панели",
+        "url": "https://freelance.habr.com/tasks/608785",
+        "price": "2 000 руб. за проект"
+    },
+    {
+        "title": "Сбор данных, Siemens Industry Support",
+        "url": "https://freelance.habr.com/tasks/608725",
+        "price": "3 000 руб. за час"
+    },
+    {
+        "title": "Написать скрипт на основе проекта с открытым кодом",
+        "url": "https://freelance.habr.com/tasks/608681",
+        "price": "договорная"
+    },
+    {
+        "title": "Код на python для нелинейного уравнения(численное моделирование)",
+        "url": "https://freelance.habr.com/tasks/608669",
         "price": "10 000 руб. за проект"
     }
 ]
